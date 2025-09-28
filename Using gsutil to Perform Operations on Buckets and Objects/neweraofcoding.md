@@ -1,0 +1,45 @@
+# GSP130
+
+# Using gsutil to Perform Operations on Buckets and Objects |
+
+## ⚠️ **Disclaimer:**
+This script and guide are provided for educational purposes to help you understand the lab process. Before using the script, I encourage you to open and review it to understand each step. Please make sure you follow Qwiklabs' terms of service and YouTube’s community guidelines. The goal is to enhance your learning experience, not to bypass it.
+
+## **Overview**
+This script automates several Google Cloud Storage operations, including creating buckets, copying files, setting access permissions, and synchronizing directories using gsutil.
+
+## **Features**
+
+### **Bucket Management:**
+- Create multi-regional storage buckets
+- Synchronize local directories with Cloud Storage
+- Set public read access to objects
+
+### **File Operations:**
+- Rename and remove specific files
+- Copy files with different storage classes
+- List bucket contents and delete objects
+
+## **Usage**
+
+### **Prerequisites**
+- Ensure you have Google Cloud SDK installed
+- You must be authenticated to your GCP project
+- Enable necessary APIs (e.g., Cloud Storage API)
+
+### **Execution**
+
+```bash
+# Download the script
+curl -LO https://raw.githubusercontent.com/cloudskillswork/gcloud/refs/heads/main/Using%20gsutil%20to%20Perform%20Operations%20on%20Buckets%20and%20Objects/Using%20gsutil%20to%20Perform%20Operations%20on%20Buckets%20and%20Objects/neweraofcoding.sh
+
+# Make the script executable
+sudo chmod +x neweraofcoding.sh
+
+# Execute the script
+./neweraofcoding.sh
+```
+
+
+## Join the Community
+[![Telegram](https://img.shields.io/badge/Join-Telegram_Group-blue?style=for-the-badge&logo=telegram)](https://t.me/neweraofcoding) - Connect with fellow cloud enthusiasts, ask questions, and share your learning journey.
