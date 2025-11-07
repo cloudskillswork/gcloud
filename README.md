@@ -84,9 +84,35 @@ javascript:(function () {
 - execution steps
 - access code to join the game, arcade points
 
+https://github.com/DhruvChaurasia3418/Arcade-2025/blob/main/TechCare/Ingesting%20FHIR%20Data%20with%20the%20Healthcare%20API 
+https://github.com/Techcps/Google-Cloud-Skills-Boost/blob/main/Dataplex%3A%20Qwik%20Start%20-%20Console/techcps1143.md 
+https://github.com/quiccklabs/Labs_solutions/tree/5eb9d3ce51dfa507cd09d6f30b06b13fcf9414ab/Using%20Specialized%20Processors%20with%20Document%20AI%20Python 
+https://github.com/Cloud-Wala-Banda/Labs-Solutions/blob/main/Getting%20Started%20with%20API%20Gateway%20Challenge%20Lab/Getting%20Started%20with%20API%20Gateway%20Challenge%20Lab.md
+
+Guide
+https://docs.google.com/document/d/1Zwa2PQ2L20FlB_d8Bg5RBTiGDSCmAH2CYFluZ8A1zPA/edit?usp=drivesdk 
+skill badges
+https://docs.google.com/spreadsheets/d/e/2PACX-1vQYBy2q_bP90gtBh2ycXswNOoOtuUBPMsij9jws4cLzSdHRGFRXaczSW-1yTagoflpnGfARRiCyXzgS/pubhtml  
+Master Sheet Google Cloud Arcade & Arcade Facilitator Cohort 2
+https://docs.google.com/spreadsheets/d/e/2PACX-1vSTVF4NpPQ8QxvbJkgZHwWpNS5_c0gHmyqKoqNA3UQx4Sg1MXzdRjqtEhggjBqXjrQvU7oGkbMLP4Qi/pubhtml 
+Easiest 12 skills badges
+https://docs.google.com/document/d/1mTtnEgBcpADcRk1ZHdj2ry_0Q3LCwcX4UTYllgzQDkA/edit?usp=drivesdk  
+Skill Badges || Arcade/GCAF || QwikLab Explorers
+https://docs.google.com/spreadsheets/d/1LPxT7-Pm3pIBB7muZ1Yy-DPUvMEn-QDTf8D8O7QxcZw/edit?usp=drivesdk    
+
 ## common commands
 
 ## common lab for multiple skill badges
+
+https://www.cloudskillsboost.google/course_templates/976/labs/591398
+https://www.cloudskillsboost.google/course_templates/646/labs/587159 
+https://www.cloudskillsboost.google/course_templates/1241/labs/591604 
+https://www.cloudskillsboost.google/course_templates/976/labs/591398
+https://www.cloudskillsboost.google/course_templates/652/labs/564283 
+https://www.cloudskillsboost.google/course_templates/661/labs/578732 
+https://www.cloudskillsboost.google/course_templates/1177/labs/523527 
+https://www.cloudskillsboost.google/course_templates/1412/labs/589608 
+https://www.cloudskillsboost.google/course_templates/1177/labs/523525
 
 # List of Cloud Skills Boost Labs that are part of multiple Skill Badges
 

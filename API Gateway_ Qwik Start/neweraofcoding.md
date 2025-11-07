@@ -15,7 +15,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO https://raw.githubusercontent.com/cloudskillswork/gcloud/refs/heads/main/API%20Gateway%3A%20Qwik%20Start/neweraofcoding.sh
+curl -LO https://raw.githubusercontent.com/cloudskillswork/gcloud/main/API%20Gateway_%20Qwik%20Start/neweraofcoding.sh
 sudo chmod +x neweraofcoding.sh
 ./neweraofcoding.sh
 ```
