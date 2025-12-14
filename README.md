@@ -99,6 +99,14 @@ Easiest 12 skills badges
 https://docs.google.com/document/d/1mTtnEgBcpADcRk1ZHdj2ry_0Q3LCwcX4UTYllgzQDkA/edit?usp=drivesdk  
 Skill Badges || Arcade/GCAF || QwikLab Explorers
 https://docs.google.com/spreadsheets/d/1LPxT7-Pm3pIBB7muZ1Yy-DPUvMEn-QDTf8D8O7QxcZw/edit?usp=drivesdk    
+update
+https://docs.google.com/spreadsheets/d/1iTKa8Oi5msn2W74r6WrHiE-vZ0dWYIMkkd7V4cqucas/edit?gid=1920707232#gid=1920707232	
+
+cohort 2 sheet
+https://docs.google.com/spreadsheets/d/1VpaGE-xz_M1Q9H5CntxVG809cAPNsZSTdui7ba2wYWc/edit?gid=549247389#gid=549247389
+
+full guidance
+https://docs.google.com/spreadsheets/d/1kFJVZAfQ0tbJVqTEalVknkt0oGujCG0oTRbhWdJ-SLM/edit?gid=1584880243#gid=1584880243
 
 ## common commands
 
