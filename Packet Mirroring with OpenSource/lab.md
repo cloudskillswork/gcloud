@@ -13,7 +13,7 @@ export ZONE=
 ```
 
 ```bash
-curl -LO https://raw.githubusercontent.com/cloudskillswork/gcloud/refs/heads/main/Ab12/2l/neweraofcoding.sh
+curl -LO https://raw.githubusercontent.com/cloudskillswork/gcloud/main/Packet Mirroring with OpenSource/neweraofcoding.sh
 sudo chmod +x neweraofcoding.sh
 ./neweraofcoding.sh
 

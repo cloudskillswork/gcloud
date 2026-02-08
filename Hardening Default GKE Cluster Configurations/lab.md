@@ -1,6 +1,6 @@
 ## Hardening Default GKE Cluster Configurations
-
-
+GSP496
+https://www.skills.google/games/6994/labs/43463
 
 
 ### ⚠️ Disclaimer
@@ -13,7 +13,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO https://raw.githubusercontent.com/cloudskillswork/gcloud/refs/heads/main/Hardening%20Default%20GKE%20Cluster%20Configurations/neweraofcoding.sh
+curl -LO https://raw.githubusercontent.com/cloudskillswork/gcloud/main/Hardening%20Default%20GKE%20Cluster%20Configurations/neweraofcoding.sh
 sudo chmod +x neweraofcoding.sh
 ./neweraofcoding.sh
 ```

@@ -11,7 +11,7 @@
 
 ```bash
 
-curl -LO https://raw.githubusercontent.com/cloudskillswork/gcloud/refs/heads/main/Ab12/neweraofcoding.sh
+curl -LO https://raw.githubusercontent.com/cloudskillswork/gcloud/main/Network Policy on Google Kubernetes Engine/neweraofcoding.sh
 sudo chmod +x neweraofcoding.sh
 ./neweraofcoding.sh
 ```

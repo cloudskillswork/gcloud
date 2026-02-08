@@ -1,6 +1,6 @@
 ## Using Role-based Access Control in Kubernetes Engine
-
-
+GSP493
+https://www.skills.google/games/6994/labs/43462
 
 ### ⚠️ Disclaimer
 - **This script and guide are provided for  the educational purposes to help you understand the lab services and boost your career. Before using the script, please open and review it to familiarize yourself with Google Cloud services. Ensure that you follow 'Qwiklabs' terms of service and YouTube’s community guidelines. The goal is to enhance your learning experience, not to bypass it.**
@@ -12,7 +12,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO https://raw.githubusercontent.com/cloudskillswork/gcloud/refs/heads/main/Using%20Role-based%20Access%20Control%20in%20Kubernetes%20Engine/neweraofcoding.sh
+curl -LO https://raw.githubusercontent.com/cloudskillswork/gcloud/main/Using%20Role-based%20Access%20Control%20in%20Kubernetes%20Engine/neweraofcoding.sh
 sudo chmod +x neweraofcoding.sh
 ./neweraofcoding.sh
 ```

@@ -12,7 +12,7 @@
 
 
 ```bash
-curl -LO https://raw.githubusercontent.com/cloudskillswork/gcloud/refs/heads/main/Ab12/tf/Using%20Cloud%20Trace%20on%20Kubernetes%20Engine/neweraofcoding.sh
+curl -LO https://raw.githubusercontent.com/cloudskillswork/gcloud/main/Using%20Cloud%20Trace%20on%20Kubernetes%20Engine/neweraofcoding.sh
 sudo chmod +x neweraofcoding.sh
 ./neweraofcoding.sh
 ```

@@ -14,7 +14,7 @@ export ZONE=
 
 ```bash
 
-curl -LO https://raw.githubusercontent.com/cloudskillswork/gcloud/refs/heads/main/Ab12/Network%20Tiers%20-%20Optimizing%20Network%20Spend/neweraofcoding.sh
+curl -LO https://raw.githubusercontent.com/cloudskillswork/gcloud/main/Network%20Tiers%20-%20Optimizing%20Network%20Spend/neweraofcoding.sh
 sudo chmod +x neweraofcoding.sh
 ./neweraofcoding.sh
 ```

@@ -389,3 +389,22 @@ https://www.cloudskillsboost.google/course_templates/1177/labs/523525
 
 - #### ⭐ **Skill Badge**: [Build a Secure Google Cloud Network](https://www.cloudskillsboost.google/course_templates/654)
 - #### ⭐ **Skill Badge**: [Develop your Google Cloud Network](https://www.cloudskillsboost.google/course_templates/625)
+
+https://raw.githubusercontent.com/{username}/{repo}/{branch}/{path/to/file}
+https://raw.githubusercontent.com/cloudskillswork/gcloud/main/Ab12/Deploy%20Kubernetes%20Load%20Balancer%20Service%20with%20Terraform/neweraofcoding.sh
+https://raw.githubusercontent.com/cloudskillswork/gcloud/main/Deploy%20Kubernetes%20Load%20Balancer%20Service%20with%20Terraform/neweraofcoding.sh
+
+https://raw.githubusercontent.com/cloudskillswork/gcloud/refs/heads/main/Ab12/Deploy%20Kubernetes%20Load%20Balancer%20Service%20with%20Terraform/neweraofcoding.sh
+
+https://github.com/cloudskillswork/gcloud/refs/heads/main/Ab12/Deploy%20Kubernetes%20Load%20Balancer%20Service%20with%20Terraform/neweraofcoding.sh
+
+https://go.cloudskillsboost.google/arcade
+
+need to add
+App Dev: Deploying the Application into Kubernetes Engine - Python
+https://www.skills.google/games/6994/labs/43461
+GSP188
+export ZONE=us-west1-c
+curl -LO https://raw.githubusercontent.com/Itsabhishek7py/GoogleCloudSkillsboost/refs/heads/main/App%20Dev%20Deploying%20the%20Application%20into%20Kubernetes%20Engine%20Python/abhishek.sh
+sudo chmod +x abhishek.sh
+./abhishek.sh
